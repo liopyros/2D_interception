@@ -2,7 +2,8 @@
    Credit due to the olcConsoleGameEngine:
    https://github.com/OneLoneCoder/videos/blob/master/olcConsoleGameEngine.h
 
-   This code was expanded from a video tutorial that already had some built in physics (especially collision). The video and code, respectively, are linked as follows:
+   This code was expanded from a video tutorial that already had some built in physics (especially collision). 
+   The video and code are linked as follows:
    https://www.youtube.com/watch?v=LPzyNOHY3A4 
    https://github.com/OneLoneCoder/videos/blob/master/OneLoneCoder_Balls1.cpp
 */
